@@ -1,0 +1,24 @@
+
+#a=7
+#print(a)
+#print('%d'%a)
+#a=7;b=8
+#print(a)
+#print('%d'%b)
+#c=6.7
+#print(c)
+#c=6.7
+#print('%f'%c)
+#d=4.56
+#print('%.1f'%d)
+
+"Type conversion and casting"
+P=7
+Print(type(P))
+Print(int(P))
+Q=9
+Print(type(Q))
+Print(float(Q))
+R=10.9
+Print(type(R))
+Print(int(R))
